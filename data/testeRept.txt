@@ -1,0 +1,7 @@
+6
+1|fulano|fulano|funalo|12345678911|1|fulano|1|fulano|1.2
+2|fulano2|fulano2|fulano2|12345678910|1|fulano2|1|fulano2|1.5
+3|fulano3|fulano3|12345678910|12345678910|1|fulano3|2|funalo31|fulano32|1.5
+4|fulano|fulano4|fulano4|12345678910|1|fulano4|1|fulano4|1.5
+5|fulano5|fulano5|fulano5|12345678910|1|fulano5|1|fulano5|1.5
+6|fulano6|fulano6|fulano6|12345678910|1|fulano6|1|fulano6|1.5
